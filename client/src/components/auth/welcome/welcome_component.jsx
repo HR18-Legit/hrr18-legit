@@ -13,8 +13,7 @@ const Welcome = () => {
             <main className="logoBg">
                 <div className="welcomeWrapper">
                     <div className="intro">
-                        <h1>Legit</h1>
-                        <h2>Excel no more.</h2>
+                        <h1>Ed-IT</h1>
                         <h2>Track your classes, attendance, and student outcomes.</h2>
                     </div>
                     <div id="about" className="about">
@@ -30,25 +29,21 @@ const Welcome = () => {
                                 <img src="http://yadayadacreative.com/projects/jfritz.png" alt=""/>
                                 <h5>John F.</h5>
                                 <h6>Lead Engineer</h6>
-                                <p>Lorem ipsum some really quick, short description here.</p>
                             </li>
                             <li>
                                 <img src="http://yadayadacreative.com/projects/yara.png" alt=""/>
                                 <h5>Yara TP</h5>
                                 <h6>Lead Engineer</h6>
-                                <p>Programmer | Traveler | Little Sister | Geographically Confused | Dog Parent.</p>
                             </li>
                             <li>
                                 <img src="http://yadayadacreative.com/projects/aman.png" alt=""/>
                                 <h5>Aman T.</h5>
                                 <h6>Lead Engineer</h6>
-                                <p>Lorem ipsum some really quick, short description here.</p>
                             </li>
                             <li>
                                 <img src="http://yadayadacreative.com/projects/graham.png" alt=""/>
                                 <h5>Graham W.</h5>
                                 <h6>Lead Engineer</h6>
-                                <p>Lorem ipsum some really quick, short description here.</p>
                             </li>
                         </ul>
                     </div>
