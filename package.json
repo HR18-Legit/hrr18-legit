@@ -1,7 +1,7 @@
 {
-  "name": "hrr18-legit",
+  "name": "Ed-IT",
   "version": "1.0.0",
-  "description": "Hack Reactor 18",
+  "description": "Hack Reactor Remote 18 'Greenfield' Student Project",
   "private": true,
   "main": "server/server.js",
   "scripts": {
